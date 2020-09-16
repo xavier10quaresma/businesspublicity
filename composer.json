@@ -1,0 +1,12 @@
+{
+    "name": "xavo/businesspublicity",
+    "description": "Website for Business Publicty",
+    "require": {
+        "slim/slim": "3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
